@@ -1,4 +1,4 @@
-title: Шаблон документации для воркшопа
+title: Шаблон документации для воркшопа Diplodoc
 links:
   - title: О проекте
     href: about.md
@@ -8,3 +8,5 @@ links:
     href: anotherpage.md
   - title: Подраздел на главной странице
     href: sub-section/
+  - title: Чем кормят на конференции техписов
+    href: food.md
