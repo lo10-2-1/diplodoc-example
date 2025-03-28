@@ -1,6 +1,8 @@
 title: Шаблон проекта документации
 href: index.yaml
 items: 
+  - name: Чем кормят на конференции техписов
+    href: food.md
   - name: О проекте
     href: about.md
   - name: Дополнительная страница
